@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-wxmj0$zm50&2r35=o1r3@@d7x0eavwe4&0^poiacp%gg_!9=w&
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'code-server-testlify-678facfbe190d35779f5d103-3sctx2dyuq-ew.a.run.app',
+    '.a.run.app',
     'localhost',
     '127.0.0.1',
 ]
